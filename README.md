@@ -15,7 +15,7 @@
 
 ## 🖼️ Screenshot:
 ![Educational Web Screenshot](Macbook-Air-e-du.netlify.app.png)  
-*A snapshot of the homepage.*
+
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Live Demo:
 [Explore Educational Web Now!](https://e-du.netlify.app/)  
-*(Replace the link with your live project URL.)*
+
 
 ---
 
