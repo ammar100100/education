@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Live Demo:
-[Explore Educational Web Now!]([https://your-live-link.com](https://e-du.netlify.app/))  
+[Explore Educational Web Now!](https://e-du.netlify.app/)  
 *(Replace the link with your live project URL.)*
 
 ---
