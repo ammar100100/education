@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ Screenshot:
-![Educational Web Screenshot](https://via.placeholder.com/800x400)  
+![Educational Web Screenshot](Macbook-Air-e-du.netlify.app.png)  
 *A snapshot of the homepage.*
 
 ---
