@@ -1,0 +1,149 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .sidebar {
+    height: 100vh;
+  }
+  
+  .sidebar .profile {
+    border-bottom: 1px solid #444;
+  }
+  
+  .sidebar .nav-link {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+  }
+  
+  .sidebar .nav-link:hover {
+    background-color: #495057;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background-color: #007bff;
+    color: white;
+    padding: 50px 0;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  /* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background: url('hero-image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+section {
+    padding: 60px 0;
+}
+
+/* Dark Theme */
+.dark-theme {
+    background-color: #121212;
+    color: white;
+}
+
+.dark-theme .navbar {
+    background-color: #333;
+}
+
+.dark-theme .hero {
+    background-color: #222;
+}
+
+.dark-theme .btn-outline-light {
+    border-color: #fff;
+}
+
+.dark-theme .btn-outline-light:hover {
+    background-color: #fff;
+    color: #121212;
+}
+
+.dark-theme footer {
+    background-color: #333;
+}
+
+/* Light Theme */
+.light-theme {
+    background-color: white;
+    color: #121212;
+}
+
+.light-theme .navbar {
+    background-color: #007bff;
+}
+
+.light-theme .hero {
+    background-color: #007bff;
+}
+
+.light-theme footer {
+    background-color: #007bff;
+}
+
+/* Navbar Styling */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+/* Cards */
+.card {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Hero Section Styling */
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.25em;
+    margin-bottom: 30px;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
